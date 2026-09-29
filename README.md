@@ -1,6 +1,6 @@
 # Blood Pong native Windows preservation port
 
-Version 1.0.0 · [Download the current Windows release](https://github.com/kandowontu/blood-pong-native/releases/latest)
+Version 1.0.0 · [Download the current Windows release](https://github.com/kandowontu2/blood-pong-native/releases/latest)
 
 Player guide: **[Complete movelist for all 16 characters](MOVELIST.md)**
 
